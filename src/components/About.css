@@ -1,0 +1,39 @@
+.about-title {
+    color: #F5F5F5;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: start;
+    margin-top: -18px;
+    margin-left: 35px;
+    margin-bottom: -5px;
+}
+
+.about-content {
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #DCDCDC;
+    text-align: justify;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.interest-title {
+    color: #F5F5F5;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: start;
+    margin-left: 35px;
+}
+
+.interest-content {
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #DCDCDC;
+    text-align: justify;
+    margin-left: 35px;
+    margin-right: 35px;
+}

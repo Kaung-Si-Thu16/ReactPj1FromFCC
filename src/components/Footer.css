@@ -1,0 +1,17 @@
+.footer-container {
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.twitter, .fb, .ig, .linkedin, .github {
+    color: #918E9B;
+    width: 28px;
+    height: 28px;
+    padding: 10px;
+    cursor: pointer;
+}
